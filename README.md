@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Virginia
 
-> Free BeamStation sample export with 102 rows and masked direct-contact fields.
+> Free BeamStation sample export with 115 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `155515` |
 | Location | Virginia |
 | Category | Food and Drink |
-| Full dataset size | 1,021 records |
-| Free sample size | 102 records (9.99%) |
-| Last export | 2026-04-08T14:10:26.739448+00:00 |
+| Full dataset size | 1,150 records |
+| Free sample size | 115 records (10.0%) |
+| Last export | 2026-04-16T23:57:35.715273+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-155515/releases/download/sample-latest/beamstation_155515_food_and_drink-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
