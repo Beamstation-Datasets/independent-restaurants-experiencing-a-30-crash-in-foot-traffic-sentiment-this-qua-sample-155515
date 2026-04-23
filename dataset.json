@@ -6,7 +6,7 @@
   "config_category": "expansion",
   "config_description": "--Distressed Venues with Verified Decline--\n\nEstablished, well-reviewed restaurants, bars, and cafes now experiencing a sharp and confirmed drop in Transaction Velocity & Customer Sentiment.\n\nThese are previously high-performing venues where the 360-day sentiment was strong, but 90-day sentiment has crashed by 30%+.\n\nThat's a leading indicator of operational trouble, ownership fatigue, or market-ready distress.\n\nEvery listing is an independent hospitality and food & beverage location (no nation-wide chains), confirmed active with 100+ total reviews and an \"Active Heartbeat\" signal within the last 90 days.",
   "config_name": "Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Virginia",
-  "export_job_id": "399b264b-5537-43bf-a574-c8bd5e4ebddd",
+  "export_job_id": "1fa35235-4b65-4be6-94c0-2eb14f3e83c4",
   "github_org": "Beamstation-Datasets",
   "id_short": 155515,
   "location_name": "Virginia",
@@ -14,9 +14,9 @@
   "repo_name": "independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-155515",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/155515/beamstation_155515_food_and_drink-us-va_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 115,
-  "sample_sha256": "9ba67f1f5a2e64894e1d23d3ae0ebddf91bcea89c9edaa654b3b71b7c053d53f",
-  "sample_size_bytes": 438703,
-  "total_records": 1150,
-  "updated_at": "2026-04-16T23:57:35.715273+00:00"
+  "sample_records": 121,
+  "sample_sha256": "74ae2ff47d140b42bea519dac465b703b6606f44a2a516f9428e11beb861a369",
+  "sample_size_bytes": 465539,
+  "total_records": 1210,
+  "updated_at": "2026-04-23T18:18:07.824069+00:00"
 }
